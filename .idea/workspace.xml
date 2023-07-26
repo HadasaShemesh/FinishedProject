@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a053b076-d169-485d-9753-b376054c197d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/save_line.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/AppStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/BackButton/BackButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/BackButton/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/MenuButton/MenuButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/MenuButton/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/MenuImage/MenuImage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/MenuImage/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/ViewIngredientsButton/ViewIngredientsButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/components/ViewIngredientsButton/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/data/MockDataAPI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/data/dataArrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/navigations/AppNavigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/screens/Categories/CategoriesScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/screens/Categories/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/screens/DrawerContainer/DrawerContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/screens/DrawerContainer/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/screens/Home/HomeScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/screens/Home/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/screens/Ingredient/IngredientScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/screens/Ingredient/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/screens/IngredientsDetails/IngredientsDetailsScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/screens/IngredientsDetails/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/screens/Recipe/RecipeScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/screens/Recipe/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/screens/RecipesList/RecipesListScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/screens/RecipesList/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/screens/Search/SearchScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/screens/Search/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/screens/Splash/SplashScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/screens/Splash/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app" beforeDir="false" afterPath="$PROJECT_DIR$/my-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/save_line/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/save_line/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OddoKJudM2TpfYV6KLRsMqNTz3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "com.google.services.firebase.aqiPopupShown": "true",
+    "last_opened_file_path": "C:/Users/hadasa/final-project/save_line/my-app",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a053b076-d169-485d-9753-b376054c197d" name="Changes" comment="" />
+      <created>1681894567020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681894567020</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
